@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\polite.sambo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\polite.sambo\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

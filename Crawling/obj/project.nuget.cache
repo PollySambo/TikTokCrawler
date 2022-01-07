@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DdVTSxUzzITBQTsspp4apjx72BzbrFogoXjAzNrLz1nCJe4T14N0AB8PN4f2/2ZLcqWUQi9Nx+B4ojKK0E1guw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\polite.sambo\\Desktop\\Projects\\Crawling\\Rainbow.Crawling.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "dgSpecHash": "OqLGi18RN+yjDjBY9p/P+0Bzv8DiPebarae9xnYIdYPLfHivXo5rG2KW1CBQfcKSLgCZ9ZjqOCSy6TmnrGclEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Crawling.Core\\Rainbow.Crawling.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\common.logging\\3.4.1\\common.logging.3.4.1.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\common.logging.core\\3.4.1\\common.logging.core.3.4.1.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\common.logging.nlog41\\3.4.1\\common.logging.nlog41.3.4.1.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\coypu\\3.1.1\\coypu.3.1.1.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\nlog\\4.7.13\\nlog.4.7.13.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\structuremap\\4.7.1\\structuremap.4.7.1.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.reflection.extensions\\4.0.1\\system.reflection.extensions.4.0.1.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.reflection.typeextensions\\4.4.0\\system.reflection.typeextensions.4.4.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.runtime.handles\\4.0.1\\system.runtime.handles.4.0.1.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.runtime.interopservices\\4.1.0\\system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\polite.sambo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Coypu 3.1.1 requires Selenium.WebDriver (>= 3.141.0 && < 4.0.0) but version Selenium.WebDriver 4.1.0 was resolved.",
+      "libraryId": "Selenium.WebDriver",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Common.Logging.NLog41 3.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Common.Logging.NLog41",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

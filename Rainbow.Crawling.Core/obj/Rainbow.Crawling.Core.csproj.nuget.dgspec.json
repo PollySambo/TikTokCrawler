@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Crawling.Core\\Rainbow.Crawling.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Common\\Rainbow.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Common\\Rainbow.Common.csproj",
+        "projectName": "Rainbow.Common",
+        "projectPath": "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Common\\Rainbow.Common.csproj",
+        "packagesPath": "C:\\Users\\polite.sambo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\polite.sambo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Common.Logging": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "Common.Logging.Core": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "Common.Logging.NLog41": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Crawling.Core\\Rainbow.Crawling.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Crawling.Core\\Rainbow.Crawling.Core.csproj",
+        "projectName": "Rainbow.Crawling.Core",
+        "projectPath": "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Crawling.Core\\Rainbow.Crawling.Core.csproj",
+        "packagesPath": "C:\\Users\\polite.sambo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Crawling.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\polite.sambo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Common\\Rainbow.Common.csproj": {
+                "projectPath": "C:\\Users\\polite.sambo\\Desktop\\Projects\\Rainbow.Common\\Rainbow.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Common.Logging": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "Common.Logging.Core": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "Coypu": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.39, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.13, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "StructureMap": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.11, 3.1.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
