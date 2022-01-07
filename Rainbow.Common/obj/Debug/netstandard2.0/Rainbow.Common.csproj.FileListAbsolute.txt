@@ -1,9 +1,0 @@
-C:\Users\polite.sambo\Desktop\Projects\Rainbow.Common\bin\Debug\netstandard2.0\Rainbow.Common.deps.json
-C:\Users\polite.sambo\Desktop\Projects\Rainbow.Common\bin\Debug\netstandard2.0\Rainbow.Common.dll
-C:\Users\polite.sambo\Desktop\Projects\Rainbow.Common\bin\Debug\netstandard2.0\Rainbow.Common.pdb
-C:\Users\polite.sambo\Desktop\Projects\Rainbow.Common\obj\Debug\netstandard2.0\Rainbow.Common.csprojAssemblyReference.cache
-C:\Users\polite.sambo\Desktop\Projects\Rainbow.Common\obj\Debug\netstandard2.0\Rainbow.Common.AssemblyInfoInputs.cache
-C:\Users\polite.sambo\Desktop\Projects\Rainbow.Common\obj\Debug\netstandard2.0\Rainbow.Common.AssemblyInfo.cs
-C:\Users\polite.sambo\Desktop\Projects\Rainbow.Common\obj\Debug\netstandard2.0\Rainbow.Common.csproj.CoreCompileInputs.cache
-C:\Users\polite.sambo\Desktop\Projects\Rainbow.Common\obj\Debug\netstandard2.0\Rainbow.Common.dll
-C:\Users\polite.sambo\Desktop\Projects\Rainbow.Common\obj\Debug\netstandard2.0\Rainbow.Common.pdb

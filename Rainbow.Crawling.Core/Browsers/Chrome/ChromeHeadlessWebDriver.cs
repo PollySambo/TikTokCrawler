@@ -33,7 +33,6 @@ namespace Rainbow.Crawling.Core.Browsers.Chrome
         {
             var options = new ChromeOptions();
             options.AddArguments("--no-sandbox");
-            options.BinaryLocation("C:\\Program Files\\Google\\Chrome\\Application");
             var driver = new ChromeDriver(ChromeDriverService.CreateDefaultService(), options, TimeSpan.FromSeconds(240));
             return driver;
 
